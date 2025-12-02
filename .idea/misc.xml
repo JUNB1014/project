@@ -1,0 +1,41 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_lines.xml" value="0.24895833333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_list.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_map.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_modify.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_pass_word_reset.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_point_edit.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/activity_self.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/fragment_map.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/fragment_mine.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang/app/src/main/res/layout/item_point_list.xml" value="0.25" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/java/com/app/demo/activitys/src/main/res/layout/item_goods.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_choice_pic.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_detail.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_lines.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_list.xml" value="0.14907407407407408" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_main.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_map.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_point_edit.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/activity_shibie.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/fragment_map.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/item_gridview.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/app/src/main/res/layout/item_point_list.xml" value="0.23333333333333334" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/baseLibrary/src/main/res/drawable/shape_button_4.xml" value="0.179" />
+        <entry key="..\:/TB_demo_mysql/112002_xiaoyuan_baidu/demo_list_daohang_shibie/baseLibrary/src/main/res/layout/layout_title_view.xml" value="0.23333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/color_theme_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_3853e8">
+
+        <TextView
+            android:id="@+id/tv_map_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:text="首頁"
+            android:textColor="@color/whilt"
+            android:textSize="18sp" />
+    </RelativeLayout>
+    <com.youth.banner.Banner
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        app:banner_default_image="@mipmap/ic_launcher"
+        app:banner_layout="@layout/banner"
+        app:indicator_drawable_selected="@drawable/home_banner_indicator_blue"
+        app:indicator_drawable_unselected="@drawable/home_banner_indicator_dark"
+        app:indicator_margin="4dp" />
+
+
+    <TextView
+        android:id="@+id/tv_daohang"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/shape_button_4"
+        android:gravity="center"
+        android:text=" 景點圖片辨識"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/tv_switch"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/shape_button_4"
+        android:gravity="center"
+        android:text=" 切換語言"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+</LinearLayout>

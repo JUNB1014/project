@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- 標題 -->
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="切換語言"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <!-- 中文按鈕 -->
+    <Button
+        android:id="@+id/btn_chinese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_title"
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:text="中文" />
+
+    <!-- 英文按鈕 -->
+    <Button
+        android:id="@+id/btn_english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_chinese"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="英文" />
+
+    <!-- 日文按鈕 -->
+    <Button
+        android:id="@+id/btn_japanese"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_english"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="日文" />
+
+    <!-- 韓文按鈕 -->
+    <Button
+        android:id="@+id/btn_korean"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btn_japanese"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:text="韓文" />
+
+</RelativeLayout>
