@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/ec4d11a7-1fe5-4ca3-9876-2813f919717b)# 淡水景物辨識導覽系統 
+# 淡水景物辨識導覽系統 
 結合 **Android** 與 **TensorFlow Lite** 的影像辨識導覽 APP。
 專為淡水遊客設計，提供多國語言的景點導覽服務。
 
