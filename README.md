@@ -1,13 +1,22 @@
-# 淡水景物辨識導覽系統 
+![1](https://github.com/user-attachments/assets/ec4d11a7-1fe5-4ca3-9876-2813f919717b)# 淡水景物辨識導覽系統 
 結合 **Android** 與 **TensorFlow Lite** 的影像辨識導覽 APP。
 專為淡水遊客設計，提供多國語言的景點導覽服務。
 
 ## 📱 專案展示 
 <div align="center">
-  <img src="https://i.postimg.cc/3xxpNVKM/1.jpg" width="200" />
-  <img src="https://i.postimg.cc/tJmb5sV5/2.jpg" width="200" />
-  <img src="https://i.postimg.cc/RVy9Jnmv/3.jpg" width="200" />
-  <img src="https://i.postimg.cc/W35cNd8X/4.jpg" width="200" />
+  <img src="https://github.com/user-attachments/assets/b9c0aba9-b6fd-471e-b5be-1d35e539312d" width="200" />
+  &nbsp;
+
+
+  <img src="https://github.com/user-attachments/assets/7464fbeb-1337-4121-951f-f3470721ec53" width="200" />
+  &nbsp;
+
+
+  <img src="https://github.com/user-attachments/assets/c3d46cb0-4cdf-404d-be1e-e85641d3267b" width="200" />
+  &nbsp;
+
+ 
+  <img src="https://github.com/user-attachments/assets/80e812f7-e775-4d35-953c-9424b5e8854b" width="200" />
 </div>
 
 ## 🛠️ 使用技術 (Tech Stack)
